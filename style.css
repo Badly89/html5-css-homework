@@ -23,7 +23,7 @@ header {
 }
 
 .main-list li::before {
-    content: '✔';
+    content: '\2713';
     padding-right: 5spx;
 
 }
