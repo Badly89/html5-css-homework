@@ -143,9 +143,14 @@ body {
     display: flex;
     justify-content: space-between;
     margin-bottom: 70px;
+    /* width: 100px; */
 }
 
 .screenshots-photo {
+    width: 200px;
+    height: 150px;
+    
+    /* image-rendering: auto; */
        margin-right: 14px;
 }
 
